@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: hello-nbdev
+Version: 0.0.1
+Summary: The nbdev tutorial.
+Home-page: https://github.com/Kydlaw/hello_nbdev/
+Author: Kydlaw
+Author-email: kydlawj@pm.me
+License: Apache Software License 2.0
+Keywords: nbdev
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE
+
+# Hello_nbdev

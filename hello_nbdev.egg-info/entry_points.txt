@@ -1,0 +1,5 @@
+[mkdocs.plugins]
+rm_num_prefix = nbdev.mkdocs:RmNumPrefix
+
+[nbdev]
+hello_nbdev = hello_nbdev._modidx:d
